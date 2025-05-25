@@ -1,10 +1,10 @@
-#Physics Student
+# Physics Student
 
-###Education
+### Education
 Hola ah
 
-###Work Experience
+### Work Experience
 Miau
 
-##Proyects
+### Proyects
 Queso
